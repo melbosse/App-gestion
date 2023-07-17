@@ -1,1 +1,3 @@
-# TP1_Melina_Sofia
+# App-gestion
+
+Créé par Mélina Bossé et Sofia Erriqui
